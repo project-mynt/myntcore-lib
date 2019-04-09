@@ -1,8 +1,8 @@
 {
   "name": "myntcore-lib",
-  "version": "1.0.3",
+  "version": "1.0.0",
   "description": "A pure and powerful JavaScript Myntcoin library.",
-  "author": "Silence48",
+  "author": "Silence48 <silence@rpgcoin.gg>",
   "main": "index.js",
   "scripts": {
     "lint": "gulp lint",
@@ -46,10 +46,10 @@
     "elliptic": "=3.0.3",
     "inherits": "=2.0.1",
     "lodash": "^3.10.1",
-    "node-x16s": "silence48/node-x16s"
+    "node-x16s": "^1.0.0"
   },
   "devDependencies": {
-    "myntcore-build": "silence48/myntcore-build",
+    "myntcore-build": "^1.0.0",
     "brfs": "^1.2.0",
     "chai": "^1.10.0",
     "gulp": "^3.8.10",
